@@ -21,4 +21,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: sanvlk/express-app:latest
+        tags: sandalisv/express-app:latest
